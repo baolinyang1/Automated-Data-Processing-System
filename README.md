@@ -20,7 +20,9 @@ Supports Import or DirectQuery modes for analysis.
 Automated Workflow:
 Bash or Batch script (start.sh or start.bat) to execute the full pipeline.
 before:
+
 ![image](https://github.com/user-attachments/assets/07b95a94-7602-46bd-b9ff-359dc44bb0b3)
 
 after :
+
 ![image](https://github.com/user-attachments/assets/0993c949-484d-4539-ac97-5ae8683b555f)
