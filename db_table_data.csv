@@ -1,0 +1,16 @@
+id,name,sales,region,join_date,email,sales_flag,email_valid,year_joined,bonus
+1,John Doe,1000,North,2023-01-01,john.doe@email.com,Valid,True,2023,50.0
+2,Mary Smith,1500,South,2022-07-15,mary.smith@email.com,Valid,True,2022,75.0
+3,Charlie Brown,0,East,2021-12-10,charlie@email,Invalid,False,2021,0.0
+4,Delta King,2500,West,2024-05-20,delta.king@email.com,Valid,True,2024,250.0
+5,Echo Rogers,3000,North,2023-01-01,echo.rogers@email.com,Valid,True,2023,300.0
+6,John Doe,1000,North,2023-01-01,john.doe@email.com,Valid,True,2023,50.0
+7,Mary Smith,1500,South,2022-07-15,mary.smith@email.com,Valid,True,2022,75.0
+8,Charlie Brown,0,East,2021-12-10,charlie@email,Invalid,False,2021,0.0
+9,Delta King,2500,West,2024-05-20,delta.king@email.com,Valid,True,2024,250.0
+10,Echo Rogers,3000,North,2023-01-01,echo.rogers@email.com,Valid,True,2023,300.0
+11,John Doe,1000,North,2023-01-01,john.doe@email.com,Valid,True,2023,50.0
+12,Mary Smith,1500,South,2022-07-15,mary.smith@email.com,Valid,True,2022,75.0
+13,Charlie Brown,0,East,2021-12-10,charlie@email,Invalid,False,2021,0.0
+14,Delta King,2500,West,2024-05-20,delta.king@email.com,Valid,True,2024,250.0
+15,Echo Rogers,3000,North,2023-01-01,echo.rogers@email.com,Valid,True,2023,300.0

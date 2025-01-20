@@ -1,0 +1,6 @@
+id,name,sales,region,join_date,email
+1,john doe,1000,North,2023-01-01,john.doe@email.com
+2,MARY SMITH,1500,south,2022-07-15,mary.smith@email.com
+3,charlie brown,-200,east,2021-12-10,charlie@email
+4,delta KING,2500,west,2024-05-20,delta.king@email.com
+5,echo ROGERS,3000,North,,echo.rogers@email.com
