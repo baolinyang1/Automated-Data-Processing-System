@@ -7,7 +7,7 @@ This project is a Dynamic Data Analysis and Visualization System designed to aut
 Features
 
 Automated ETL Process:
-Extracts data from a CSV file or API.
+Extracts data from a CSV file
 Transforms data to clean, validate, and add derived fields.
 Loads transformed data into a PostgreSQL database.
 Data Transformation:
